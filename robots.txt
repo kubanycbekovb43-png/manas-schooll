@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kubanycbekovb43-png.github.io/manas-schooll/sitemap.xml
